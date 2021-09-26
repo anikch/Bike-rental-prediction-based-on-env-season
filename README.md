@@ -39,7 +39,8 @@ day.csv have the following fields:
 ## Approach Taken:
 - As model interpretability is the key requirement here and during EDA, observed linear relation between the independent variables and the target, so used Linear Regression.
 - Performed Coarse tuning using RFE followed by manual tuning by building multiple LR models and checking the p values (< .05) of coefficients & removed multicollinearity (checking VIF) simultaneously. 7th/Final LR model had 8 features.
-- Durbin-Watson & Residual Analysis confirmed LR assumptions met. Adj. R-squared: 0.833. Identified top features, beta coefficients & equation to interpret final Linear Regression model.
+- Durbin-Watson & Residual Analysis confirmed LR assumptions met. Adj. R-squared: 0.833. R2 score is almost similar in test and train dataset. So no possiblke overfitting is identified.
+- Identified top features, beta coefficients & equation to interpret final Linear Regression model.
 
 
 ## EDA and Model Building
