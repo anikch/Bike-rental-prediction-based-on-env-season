@@ -35,3 +35,8 @@ day.csv have the following fields:
 - casual: count of casual users
 - registered: count of registered users
 - cnt: count of total rental bikes including both casual and registered
+
+
+**EDA and Model Building**
+
+https://github.com/anikch/Bike-rental-prediction-based-on-env-season/blob/main/Bikes%20Prediction.ipynb
