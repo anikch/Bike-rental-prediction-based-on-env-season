@@ -43,6 +43,6 @@ day.csv have the following fields:
 - Identified top features, beta coefficients & equation to interpret final Linear Regression model.
 
 
-## EDA and Model Building
+## EDA and Model Building (Jupyter Notebook):
 
 https://github.com/anikch/Bike-rental-prediction-based-on-env-season/blob/main/Bikes%20Prediction.ipynb
