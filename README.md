@@ -35,4 +35,3 @@ day.csv have the following fields:
 - casual: count of casual users
 - registered: count of registered users
 - cnt: count of total rental bikes including both casual and registered
--
